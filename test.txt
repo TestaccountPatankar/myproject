@@ -1,1 +1,2 @@
 Welcome to SRE Course.
+First commit is completed.
